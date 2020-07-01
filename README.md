@@ -50,4 +50,4 @@ total de crédito. Essa rota retorna um objeto com o formato a seguir:
   }
 }
 
-A aplicação possui duas validações, sendo uma não permite retiradas maiores que o valor total e outra cadastrar transações que não sejam do tipo "income" ou "output"
+A aplicação possui duas validações, sendo uma não permite retiradas maiores que o valor total e outra cadastrar transações que não sejam do tipo "income" ou "output".
